@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Malalaya
+- 👋 Hi, I’m Theresia
 - 👀 I’m interested in improving my IT skills
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on IT Project Management
+- 🌱 I’m currently looking for a role as IT Product Manager
 - 📫 How to reach me sia.brandl(at)gmail.com
-
-<!---
-Malalaya/Malalaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- M languages are: Ruby, Rails, CSS, HTML5, Javascript& SQL
