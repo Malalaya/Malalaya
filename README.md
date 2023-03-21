@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Theresia
-- 👀 I’m interested in improving my IT skills
+- 👀 I’m interested in improving my coding skills
 - 🌱 Currently looking for a role as IT Product Manager
-- 📫 How to reach me sia.brandl(at)gmail.com
 - My languages are: Ruby, Rails, CSS, HTML5, JavaScript& SQL
